@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Starling 👋🏽
+- 🌱 I’m currently learning: fastify.io, Nodejs, 
+- 📫 How to reach me: lakinaeu@gmail.com
+- ⚡ never stop learning. 
 
 <!--
 **StarlingMercedes/StarlingMercedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
