@@ -1,5 +1,5 @@
 ### Hi, I'm Starling 👋🏽
-- 🌱 I’m currently learning: fastify.io, Nodejs, MongoDB
+- 🌱 I’m currently learning: fastify.io
 - 📫 How to reach me: lakinaeu@gmail.com
 - ⚡ Knowledge is power. 
 
